@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbe14da9-ec24-45ac-89c8-af7175c12d8a": {
+      "ProjectGuid": "bbe14da9-ec24-45ac-89c8-af7175c12d8a",
+      "DisplayName": "3D_Engine",
+      "ColorIndex": 0
+    },
+    "b1636d96-b1c0-4da7-a717-df458fc1d657": {
+      "ProjectGuid": "b1636d96-b1c0-4da7-a717-df458fc1d657",
+      "DisplayName": "SandBox",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
